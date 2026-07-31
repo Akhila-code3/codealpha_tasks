@@ -1,0 +1,23 @@
+CodeAlpha Basic Chatbot
+Description
+This project is a simple rule-based chatbot developed using Python. It interacts with users by responding to predefined commands such as greetings, displaying the current date and time, introducing itself, and handling basic conversations.
+
+Features
+Greets the user
+Displays the current date
+Displays the current time
+Introduces itself
+Responds to basic conversation
+Handles invalid input
+Exit option using bye
+Concepts Used
+Functions
+If-Else Statements
+While Loop
+Random Module
+Datetime Module
+User Input
+How to Run
+Open the project in Visual Studio Code.
+Run Basic_Chatbot.py.
+Interact with the chatbot by entering the available commands.
