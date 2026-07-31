@@ -17,8 +17,13 @@ A text-based word guessing game where the player has six chances to guess the hi
 **Technologies Used**
 
 Python 3
+
 Visual Studio Code
+
 Git
+
 GitHub
-Author
+
+**Author**
+
 Pamba Akhila
