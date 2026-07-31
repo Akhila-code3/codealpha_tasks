@@ -1,8 +1,11 @@
-CodeAlpha Hangman Game
+CODEALPHA HANGMAN GAAME
+
 Description
+
 This project is a text-based Hangman game developed using Python. The player guesses one letter at a time to reveal a hidden word. The game ends when the player guesses the word correctly or reaches the maximum number of incorrect guesses.
 
-Features
+FEATURES
+
 Random word selection
 Letter-by-letter guessing
 Maximum of six incorrect guesses
@@ -15,7 +18,9 @@ Strings
 While Loop
 If-Else Statements
 User Input
-How to Run
+
+HOW TO RUN
+
 Open the project in Visual Studio Code.
 Run Hangman_Game.py.
 Enter one letter at a time to guess the hidden word.
